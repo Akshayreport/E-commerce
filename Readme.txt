@@ -1,6 +1,5 @@
-Please use “npm start server.js” to run the code.
+Node JS is used to run this program
 
-Please visit this link for all the written source codes: https://drive.google.com/drive/folders/1vB43RoeG-mSp07RYCR-Y4DWh8KUd5tUU?usp=sharing
 
 The ecommerce page is split between the buyer(user) and the seller.
 
